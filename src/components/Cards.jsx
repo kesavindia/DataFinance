@@ -21,7 +21,7 @@ export const Cards = () => {
             <div className='w-full shadow-xl flex flex-col bg-gray-200 p-4 md:my-0 my-8 rounded-lg hover:scale-105 duration-300'>
                 <img className='w-20 mx-auto mt-[-3rem]  bg-transparent bg-white' src={Double} alt="/"/>
                 <h2 className='text-2xl font-bold text-center py-8'>Two users</h2>
-                <p className='text-center text-4xl font-bold'>$279</p>
+                <p className='text-center text-4xl font-bold'>$269</p>
                 <div className='text-center font-medium'>
                     <p className='py-2 border-b mx-8 mt-8'>1 TB Storage</p>
                     <p className='py-2 border-b mx-8 '>2 Granted Users</p>
